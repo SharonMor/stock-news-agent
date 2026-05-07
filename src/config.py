@@ -5,14 +5,14 @@ load_dotenv()
 
 # --- Your stock watchlist (edit freely) ---
 STOCKS = [
-    "AAPL",   # Apple
-    "NVDA",   # NVIDIA
-    "MSFT",   # Microsoft
-    "AMZN",   # Amazon
-    "GOOGL",  # Alphabet
-    "META",   # Meta
-    "TSLA",   # Tesla
     "AMD",    # AMD
+    "INTC",   # Intel
+    "WIX",    # Wix
+    "MSFT",   # Microsoft
+    "ORCL",   # Oracle
+    "OKLO",   # Oklo
+    "SOFI",   # SoFi
+    "NOW",    # ServiceNow
 ]
 
 # --- Email ---
