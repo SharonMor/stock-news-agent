@@ -101,6 +101,10 @@ You can also trigger a run manually from the **Actions** tab → `Daily Stock Di
 
 ---
 
+
+https://github.com/user-attachments/assets/3a7aee49-695f-48b8-8420-6640b20b0c6b
+
+
 ## Project structure
 
 ```
