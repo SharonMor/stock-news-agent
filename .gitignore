@@ -8,4 +8,6 @@ build/
 venv/
 env/
 .DS_Store
+.idea/
+*.deb
 *.log
